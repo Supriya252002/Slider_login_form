@@ -10,9 +10,9 @@ Utilizing modern HTML, CSS, and JavaScript, this form transitions smoothly betwe
 
 ![signup-form](https://github.com/Supriya252002/Slider_login_form/assets/116082297/dd84b744-f59d-4bb3-a3c8-86c55b926b32)
 
-#Key Features
-Smooth Sliding Animation:
+# Key Features
+ #Smooth Sliding Animation:-
 Engaging transitions between login and signup forms for a modern user experience.
 
-Responsive Design:
+ #Responsive Design:-
 Mobile-friendly layout that adapts to different screen sizes for optimal usability on all devices.
